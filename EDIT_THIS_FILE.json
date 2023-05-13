@@ -1,0 +1,5 @@
+{
+    "url_to_download": "https://youtube.com/video_url_to_download",
+    "download_type": "type in here ONLY single video or playlist",
+    "file_type": "type in here ONLY mp3, mp4, or wav"
+}
